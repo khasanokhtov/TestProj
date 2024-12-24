@@ -1,0 +1,28 @@
+2024/12/24 15:14:33 Сервер запущен...
+2024/12/24 15:14:38 Полученный токен: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoxLCJleHAiOjE3MzUxMjg1NTF9.w0igpAm4BDSO29pmBaoESaUKDW-dkxvPs8pqfB12DTY
+2024/12/24 15:14:38 Успешно проверен токен для userID: 1
+2024/12/24 15:14:38 Сохранённый в контекст userID: <nil>
+2024/12/24 15:15:34 Полученный токен: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoxLCJleHAiOjE3MzUxMjg1NTF9.w0igpAm4BDSO29pmBaoESaUKDW-dkxvPs8pqfB12DTY
+2024/12/24 15:15:34 Успешно проверен токен для userID: 1
+2024/12/24 15:15:34 Сохранённый в контекст userID: <nil>
+2024/12/24 15:15:34 Запрос информации о пользователе
+2024/12/24 15:15:34 Контекст перед извлечением userID: 1
+2024/12/24 15:15:34 Информация о пользователе получена: {1 Test User test@example.com $2a$10$l95ZofjUC7K1y.s5umF85uCm2/gUf2kk60vfB9xtueQoZyhIpTA8m 105 0xc00030ab98 2024-12-24 13:23:31.301942 +0300 MSK 2024-12-24 15:09:59.245077 +0300 MSK}
+2024/12/24 15:15:48 Полученный токен: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoxLCJleHAiOjE3MzUxMjg1NTF9.w0igpAm4BDSO29pmBaoESaUKDW-dkxvPs8pqfB12DTY
+2024/12/24 15:15:48 Успешно проверен токен для userID: 1
+2024/12/24 15:15:48 Сохранённый в контекст userID: <nil>
+2024/12/24 15:15:52 Полученный токен: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoxLCJleHAiOjE3MzUxMjg1NTF9.w0igpAm4BDSO29pmBaoESaUKDW-dkxvPs8pqfB12DTY
+2024/12/24 15:15:52 Успешно проверен токен для userID: 1
+2024/12/24 15:15:52 Сохранённый в контекст userID: <nil>
+2024/12/24 15:16:02 Полученный токен: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoxLCJleHAiOjE3MzUxMjg1NTF9.w0igpAm4BDSO29pmBaoESaUKDW-dkxvPs8pqfB12DTY
+2024/12/24 15:16:02 Успешно проверен токен для userID: 1
+2024/12/24 15:16:02 Сохранённый в контекст userID: <nil>
+2024/12/24 15:17:28 Полученный токен: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoxLCJleHAiOjE3MzUxMjg1NTF9.w0igpAm4BDSO29pmBaoESaUKDW-dkxvPs8pqfB12DTY
+2024/12/24 15:17:28 Успешно проверен токен для userID: 1
+2024/12/24 15:17:28 Сохранённый в контекст userID: <nil>
+2024/12/24 15:17:48 Полученный токен: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoxLCJleHAiOjE3MzUxMjg1NTF9.w0igpAm4BDSO29pmBaoESaUKDW-dkxvPs8pqfB12DTY
+2024/12/24 15:17:48 Успешно проверен токен для userID: 1
+2024/12/24 15:17:48 Сохранённый в контекст userID: <nil>
+2024/12/24 15:17:52 Полученный токен: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoxLCJleHAiOjE3MzUxMjg1NTF9.w0igpAm4BDSO29pmBaoESaUKDW-dkxvPs8pqfB12DTY
+2024/12/24 15:17:52 Успешно проверен токен для userID: 1
+2024/12/24 15:17:52 Сохранённый в контекст userID: <nil>
